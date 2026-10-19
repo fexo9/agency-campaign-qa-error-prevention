@@ -10,7 +10,8 @@ sign-off record. Two people touch every launch: one builds, a different person c
 
 **$29 one-time, Commercial license** — one company / one legal entity.
 
-- Buy on SellApp: https://digitaltoolkitstore.sell.app/product/agency-campaign-qa-ad-ops-error-prevention-kit-40-check-launch-gate-for-paid-campaigns
+- **Getly:** https://www.getly.store/product/agency-campaign-qa-ad-ops-error-prevention-kit-40-check-launch-gate-for-paid-cam
+- **SellApp:** https://digitaltoolkitstore.sell.app/product/agency-campaign-qa-ad-ops-error-prevention-kit-40-check-launch-gate-for-paid-campaigns
 
 ## The problem
 
