@@ -82,3 +82,8 @@ terms in the download.
 
 Telegram: https://t.me/Digitaltoolkitstore
 Email: poodepoo@gmail.com
+## Demo video
+
+Watch the walkthrough of the kit: 
+
+https://youtu.be/01RxpUc1cjk
